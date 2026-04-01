@@ -1,10 +1,9 @@
-package net.mrafton.thechaoticchemic.block;
+package net.mrafton.thechaoticchemic.registry;
 
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 import net.mrafton.thechaoticchemic.TheChaoticChemic;
-import net.mrafton.thechaoticchemic.item.ModItems;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredBlock;
 import net.neoforged.neoforge.registries.DeferredRegister;

@@ -1,4 +1,4 @@
-package net.mrafton.thechaoticchemic.item;
+package net.mrafton.thechaoticchemic.registry;
 
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
@@ -18,11 +18,9 @@ public class ModCreativeModeTabs {
     public static final Supplier<CreativeModeTab> THE_CHAOTIC_CHEMIC =
             CREATIVE_MODE_TABS.register("the_chaotic_chemic",()->CreativeModeTab.builder()
                     .title(Component.translatable("itemGroup.the_chaotic_chemic.the_chaotic.item.tab"))
-                    .icon(()->new ItemStack(ModItems.GOLD.get()))
+                    //.icon(()->new ItemStack(ModItems..get()))
                     .displayItems((itemDisplayParameters, output) -> {
-                        output.accept(ModItems.GOLD);
-
-
+                        ModItems.ITEMS.getEntries().forEach(item -> output.accept(item.get()));
 
                     }).build());
 

@@ -5,7 +5,7 @@ import net.minecraft.core.HolderLookup;
 import net.minecraft.data.loot.BlockLootSubProvider;
 import net.minecraft.world.flag.FeatureFlags;
 import net.minecraft.world.level.block.Block;
-import net.mrafton.thechaoticchemic.block.ModBlocks;
+import net.mrafton.thechaoticchemic.registry.ModBlocks;
 
 import java.util.Set;
 

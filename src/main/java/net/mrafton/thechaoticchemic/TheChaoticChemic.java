@@ -1,8 +1,13 @@
 package net.mrafton.thechaoticchemic;
 
-import net.mrafton.thechaoticchemic.block.ModBlocks;
-import net.mrafton.thechaoticchemic.item.ModCreativeModeTabs;
-import net.mrafton.thechaoticchemic.item.ModItems;
+import net.mrafton.thechaoticchemic.elements.ElementItem;
+import net.mrafton.thechaoticchemic.elements.ElementItemRenderer;
+import net.mrafton.thechaoticchemic.registry.ModBlocks;
+import net.mrafton.thechaoticchemic.registry.ModCreativeModeTabs;
+import net.mrafton.thechaoticchemic.registry.ModItems;
+import net.neoforged.fml.loading.FMLEnvironment;
+import net.neoforged.neoforge.client.event.RegisterColorHandlersEvent;
+import net.neoforged.neoforge.client.event.RegisterItemDecorationsEvent;
 import net.neoforged.neoforge.client.event.RegisterMenuScreensEvent;
 import org.slf4j.Logger;
 
@@ -19,7 +24,6 @@ import net.neoforged.fml.ModContainer;
 import net.neoforged.fml.common.EventBusSubscriber;
 import net.neoforged.fml.event.lifecycle.FMLClientSetupEvent;
 import net.neoforged.fml.event.lifecycle.FMLCommonSetupEvent;
-import net.neoforged.neoforge.common.NeoForge;
 import net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent;
 import net.neoforged.neoforge.event.server.ServerStartingEvent;
 
@@ -42,7 +46,6 @@ public class TheChaoticChemic {
 //        ModBlockEntities.register(modEventBus);
 //        ModMenuTypes.register(modEventBus);
 //        ModRecipes.register(modEventBus);
-
         // Register the commonSetup method for modloading
         // Register ourselves for server and other game events we are interested in.
         // Note that this is necessary if and only if we want *this* class (TheChaoticChemic) to respond directly to events.
@@ -88,7 +91,34 @@ public class TheChaoticChemic {
         }
         @SubscribeEvent
         public static void registerScreens(RegisterMenuScreensEvent event) {
+        }
+        @SubscribeEvent
+        public static void registerItemDecorators(RegisterItemDecorationsEvent event) {
+            ElementItemRenderer decorator = new ElementItemRenderer();
 
+            ModItems.ITEMS.getEntries().forEach(holder -> {
+                if (holder.get() instanceof ElementItem) {
+                    event.register(holder.get(), decorator);
+                }
+            });
+        }
+
+        @SubscribeEvent
+        public static void registerItemColors(RegisterColorHandlersEvent.Item event) {
+            System.out.println("ModItemColors: registerItemColors called");
+
+            ModItems.ITEMS.getEntries().forEach(holder -> {
+                if (holder.get() instanceof ElementItem) {
+                    System.out.println("Registering color for: " + holder.getId());
+
+                    event.register((stack, tintIndex) -> {
+                        if (stack.getItem() instanceof ElementItem elementItem) {
+                            return tintIndex > 0 ? 0xFFFFFFFF : elementItem.getTintColor();
+                        }
+                        return 0xFFFFFFFF;
+                    }, holder.get());
+                }
+            });
         }
     }
 }
