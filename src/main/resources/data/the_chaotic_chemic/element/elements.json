@@ -9,7 +9,7 @@
       "matter_state": "gas",
       "metal_type": "nonmetal",
       "artificial": false,
-      "color": "FFFFFF"
+      "color": "B3DFFF"
     },
     {
       "name": "helium",
@@ -20,7 +20,7 @@
       "matter_state": "gas",
       "metal_type": "nonmetal",
       "artificial": false,
-      "color": "FFD166"
+      "color": "FFFDCC"
     },
     {
       "name": "lithium",
@@ -31,7 +31,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "8F243E"
     },
     {
       "name": "beryllium",
@@ -42,7 +42,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "21A17E"
     },
     {
       "name": "boron",
@@ -53,7 +53,7 @@
       "matter_state": "solid",
       "metal_type": "metalloid",
       "artificial": false,
-      "color": "7FB069"
+      "color": "3E4A60"
     },
     {
       "name": "carbon",
@@ -64,7 +64,7 @@
       "matter_state": "solid",
       "metal_type": "nonmetal",
       "artificial": false,
-      "color": "2D2D2D"
+      "color": "282828"
     },
     {
       "name": "nitrogen",
@@ -75,7 +75,7 @@
       "matter_state": "gas",
       "metal_type": "nonmetal",
       "artificial": false,
-      "color": "9AD0F5"
+      "color": "E1B4B8"
     },
     {
       "name": "oxygen",
@@ -86,7 +86,7 @@
       "matter_state": "gas",
       "metal_type": "nonmetal",
       "artificial": false,
-      "color": "9AD0F5"
+      "color": "84CFFE"
     },
     {
       "name": "fluorine",
@@ -97,7 +97,7 @@
       "matter_state": "gas",
       "metal_type": "nonmetal",
       "artificial": false,
-      "color": "9AD0F5"
+      "color": "B4D14B"
     },
     {
       "name": "neon",
@@ -108,7 +108,7 @@
       "matter_state": "gas",
       "metal_type": "nonmetal",
       "artificial": false,
-      "color": "FFD166"
+      "color": "F4BC27"
     },
     {
       "name": "sodium",
@@ -119,7 +119,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "d3c683"
     },
     {
       "name": "magnesium",
@@ -130,7 +130,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "EDADEC"
     },
     {
       "name": "aluminum",
@@ -141,7 +141,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "D9D9D9"
     },
     {
       "name": "silicon",
@@ -152,7 +152,7 @@
       "matter_state": "solid",
       "metal_type": "metalloid",
       "artificial": false,
-      "color": "7FB069"
+      "color": "adb279"
     },
     {
       "name": "phosphorus",
@@ -163,7 +163,7 @@
       "matter_state": "solid",
       "metal_type": "nonmetal",
       "artificial": false,
-      "color": "6BCB77"
+      "color": "d7c38a"
     },
     {
       "name": "sulfur",
@@ -174,7 +174,7 @@
       "matter_state": "solid",
       "metal_type": "nonmetal",
       "artificial": false,
-      "color": "EED971"
+      "color": "b5a510"
     },
     {
       "name": "chlorine",
@@ -185,7 +185,7 @@
       "matter_state": "gas",
       "metal_type": "nonmetal",
       "artificial": false,
-      "color": "9AD0F5"
+      "color": "8dd41c"
     },
     {
       "name": "argon",
@@ -196,7 +196,7 @@
       "matter_state": "gas",
       "metal_type": "nonmetal",
       "artificial": false,
-      "color": "FFD166"
+      "color": "6711A3"
     },
     {
       "name": "potassium",
@@ -207,7 +207,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "c6985f"
     },
     {
       "name": "calcium",
@@ -218,7 +218,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "dbd2c7"
     },
     {
       "name": "scandium",
@@ -229,7 +229,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "fcff63"
     },
     {
       "name": "titanium",
@@ -240,7 +240,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "6375ff"
     },
     {
       "name": "vanadium",
@@ -251,7 +251,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "647689"
     },
     {
       "name": "chromium",
@@ -262,7 +262,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "481a5d"
     },
     {
       "name": "manganese",
@@ -273,7 +273,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "c7a385"
     },
     {
       "name": "iron",
@@ -284,7 +284,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "D8AF93"
+      "color": "34302e"
     },
     {
       "name": "cobalt",
@@ -295,7 +295,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "6666FF"
     },
     {
       "name": "nickel",
@@ -306,7 +306,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "62764c"
     },
     {
       "name": "copper",
@@ -317,7 +317,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "C97B3B"
+      "color": "956853"
     },
     {
       "name": "zinc",
@@ -328,7 +328,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "a0997d"
     },
     {
       "name": "gallium",
@@ -339,7 +339,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "a1a8c1"
     },
     {
       "name": "germanium",
@@ -350,7 +350,7 @@
       "matter_state": "solid",
       "metal_type": "metalloid",
       "artificial": false,
-      "color": "7FB069"
+      "color": "ccd4c0"
     },
     {
       "name": "arsenic",
@@ -361,7 +361,7 @@
       "matter_state": "solid",
       "metal_type": "metalloid",
       "artificial": false,
-      "color": "7FB069"
+      "color": "8c3f31"
     },
     {
       "name": "selenium",
@@ -372,7 +372,7 @@
       "matter_state": "solid",
       "metal_type": "nonmetal",
       "artificial": false,
-      "color": "6BCB77"
+      "color": "077c81"
     },
     {
       "name": "bromine",
@@ -383,7 +383,7 @@
       "matter_state": "liquid",
       "metal_type": "nonmetal",
       "artificial": false,
-      "color": "C46A5A"
+      "color": "a61601"
     },
     {
       "name": "krypton",
@@ -394,7 +394,7 @@
       "matter_state": "gas",
       "metal_type": "nonmetal",
       "artificial": false,
-      "color": "FFD166"
+      "color": "bce2ef"
     },
     {
       "name": "rubidium",
@@ -405,7 +405,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "ee88fd"
     },
     {
       "name": "strontium",
@@ -416,7 +416,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "536998"
     },
     {
       "name": "yttrium",
@@ -427,7 +427,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "b366c4"
     },
     {
       "name": "zirconium",
@@ -438,7 +438,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "d3bb8f"
     },
     {
       "name": "niobium",
@@ -449,7 +449,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "734d54"
     },
     {
       "name": "molybdenum",
@@ -460,7 +460,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "6d7e9a"
     },
     {
       "name": "technetium",
@@ -471,7 +471,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "758489"
     },
     {
       "name": "ruthenium",
@@ -482,7 +482,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "715f63"
     },
     {
       "name": "rhodium",
@@ -493,7 +493,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "827569"
     },
     {
       "name": "palladium",
@@ -504,7 +504,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "704158"
     },
     {
       "name": "silver",
@@ -515,7 +515,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "D9D9D9"
+      "color": "c1c7c7"
     },
     {
       "name": "cadmium",
@@ -526,7 +526,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "9a2b34"
     },
     {
       "name": "indium",
@@ -537,7 +537,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "86847f"
     },
     {
       "name": "tin",
@@ -548,7 +548,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "46311a"
     },
     {
       "name": "antimony",
@@ -559,7 +559,7 @@
       "matter_state": "solid",
       "metal_type": "metalloid",
       "artificial": false,
-      "color": "7FB069"
+      "color": "855770"
     },
     {
       "name": "tellurium",
@@ -570,7 +570,7 @@
       "matter_state": "solid",
       "metal_type": "metalloid",
       "artificial": false,
-      "color": "7FB069"
+      "color": "275b1a"
     },
     {
       "name": "iodine",
@@ -581,7 +581,7 @@
       "matter_state": "solid",
       "metal_type": "nonmetal",
       "artificial": false,
-      "color": "8E6BBE"
+      "color": "571162"
     },
     {
       "name": "xenon",
@@ -592,7 +592,7 @@
       "matter_state": "gas",
       "metal_type": "nonmetal",
       "artificial": false,
-      "color": "FFD166"
+      "color": "2861a7"
     },
     {
       "name": "cesium",
@@ -603,7 +603,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "cbac2a"
     },
     {
       "name": "barium",
@@ -614,7 +614,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "c7bca8"
     },
     {
       "name": "lanthanum",
@@ -625,7 +625,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "ba9160"
     },
     {
       "name": "cerium",
@@ -636,7 +636,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "662c5e"
     },
     {
       "name": "praseodymium",
@@ -647,7 +647,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "73b93d"
     },
     {
       "name": "neodymium",
@@ -658,7 +658,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "8c696b"
     },
     {
       "name": "promethium",
@@ -669,7 +669,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "62af0a7"
     },
     {
       "name": "samarium",
@@ -680,7 +680,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "b7b05c"
     },
     {
       "name": "europium",
@@ -691,7 +691,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "ce81b3"
     },
     {
       "name": "gadolinium",
@@ -702,7 +702,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "915536"
     },
     {
       "name": "terbium",
@@ -713,7 +713,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "8ba754"
     },
     {
       "name": "dysprosium",
@@ -724,7 +724,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "653f0e"
     },
     {
       "name": "holmium",
@@ -735,7 +735,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "4d6352"
     },
     {
       "name": "erbium",
@@ -746,7 +746,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "a05768"
     },
     {
       "name": "thulium",
@@ -757,7 +757,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "179e43"
     },
     {
       "name": "ytterbium",
@@ -768,7 +768,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "e7e39f"
     },
     {
       "name": "lutetium",
@@ -779,7 +779,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "954d41"
     },
     {
       "name": "hafnium",
@@ -790,7 +790,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "243267"
     },
     {
       "name": "tantalum",
@@ -801,7 +801,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "a81e20"
     },
     {
       "name": "tungsten",
@@ -812,7 +812,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "2b313e"
     },
     {
       "name": "rhenium",
@@ -823,7 +823,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "1b1d1b"
     },
     {
       "name": "osmium",
@@ -834,7 +834,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "7599c1"
     },
     {
       "name": "iridium",
@@ -845,7 +845,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "2f5eef"
     },
     {
       "name": "platinum",
@@ -856,7 +856,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "D9D9D9"
+      "color": "d2d3d3"
     },
     {
       "name": "gold",
@@ -867,7 +867,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "F2C94C"
+      "color": "cfac38"
     },
     {
       "name": "mercury",
@@ -878,7 +878,7 @@
       "matter_state": "liquid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "AEB6BF"
+      "color": "9d9f9f"
     },
     {
       "name": "thallium",
@@ -889,7 +889,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "785445"
     },
     {
       "name": "lead",
@@ -900,7 +900,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "7A7F8A"
+      "color": "34465a"
     },
     {
       "name": "bismuth",
@@ -911,7 +911,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "C48BE8"
+      "color": "3d9185"
     },
     {
       "name": "polonium",
@@ -922,7 +922,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "29443f"
     },
     {
       "name": "astatine",
@@ -933,7 +933,7 @@
       "matter_state": "solid",
       "metal_type": "metalloid",
       "artificial": false,
-      "color": "7FB069"
+      "color": "9fc413"
     },
     {
       "name": "radon",
@@ -944,7 +944,7 @@
       "matter_state": "gas",
       "metal_type": "nonmetal",
       "artificial": false,
-      "color": "FFD166"
+      "color": "5fd16a"
     },
     {
       "name": "francium",
@@ -955,7 +955,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "9a410c"
     },
     {
       "name": "radium",
@@ -966,7 +966,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "3c9c6f"
     },
     {
       "name": "actinium",
@@ -977,7 +977,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "7781f9"
     },
     {
       "name": "thorium",
@@ -988,7 +988,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "5f4533"
     },
     {
       "name": "protactinium",
@@ -999,7 +999,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "B0B0B0"
+      "color": "3e8863"
     },
     {
       "name": "uranium",
@@ -1010,7 +1010,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": false,
-      "color": "7FBF3F"
+      "color": "d1c33e"
     },
     {
       "name": "neptunium",
@@ -1021,7 +1021,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "657065"
     },
     {
       "name": "plutonium",
@@ -1032,7 +1032,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "db6e22"
     },
     {
       "name": "americium",
@@ -1043,7 +1043,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "ab8040"
     },
     {
       "name": "curium",
@@ -1054,7 +1054,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "920133"
     },
     {
       "name": "berkelium",
@@ -1065,7 +1065,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "b48b41"
     },
     {
       "name": "californium",
@@ -1076,7 +1076,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "b47148"
     },
     {
       "name": "einsteinium",
@@ -1087,7 +1087,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "1f79ae"
     },
     {
       "name": "fermium",
@@ -1098,7 +1098,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "e3cda1"
     },
     {
       "name": "mendelevium",
@@ -1109,7 +1109,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "1512b4"
     },
     {
       "name": "nobelium",
@@ -1120,7 +1120,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "7e41e8"
     },
     {
       "name": "lawrencium",
@@ -1131,7 +1131,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "898a8c"
     },
     {
       "name": "rutherfordium",
@@ -1142,7 +1142,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "333236"
     },
     {
       "name": "dubnium",
@@ -1153,7 +1153,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "ab7a5f"
     },
     {
       "name": "seaborgium",
@@ -1164,7 +1164,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "f75320"
     },
     {
       "name": "bohrium",
@@ -1175,7 +1175,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "54b889"
     },
     {
       "name": "hassium",
@@ -1186,7 +1186,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "8a8951"
     },
     {
       "name": "meitnerium",
@@ -1197,7 +1197,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "6f5d3a"
     },
     {
       "name": "darmstadtium",
@@ -1208,7 +1208,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "325aa6"
     },
     {
       "name": "roentgenium",
@@ -1219,7 +1219,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "80b848"
     },
     {
       "name": "copernicium",
@@ -1230,7 +1230,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "e39349"
     },
     {
       "name": "nihonium",
@@ -1241,7 +1241,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "5e0009"
     },
     {
       "name": "flerovium",
@@ -1252,7 +1252,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "654685"
     },
     {
       "name": "moscovium",
@@ -1263,7 +1263,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "18f2ad"
     },
     {
       "name": "livermorium",
@@ -1274,7 +1274,7 @@
       "matter_state": "solid",
       "metal_type": "metal",
       "artificial": true,
-      "color": "B0B0B0"
+      "color": "487d3b"
     },
     {
       "name": "tennessine",
@@ -1285,7 +1285,7 @@
       "matter_state": "solid",
       "metal_type": "metalloid",
       "artificial": true,
-      "color": "7FB069"
+      "color": "b0963f"
     },
     {
       "name": "oganesson",
@@ -1296,7 +1296,7 @@
       "matter_state": "gas",
       "metal_type": "nonmetal",
       "artificial": true,
-      "color": "FFD166"
+      "color": "723ec7"
     }
   ]
 }
